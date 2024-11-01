@@ -1,6 +1,6 @@
 # CloudiStore
 
-CloudiStore is a Node.js project that demonstrates how to upload, store, and retrieve images in Cloudinary. Using multer for handling file uploads and Cloudinary as the cloud storage provider, this project provides a streamlined solution for handling images in any Node.js application.
+CloudiStore is a MERN project that demonstrates how to upload, store, and retrieve images in Cloudinary. Using multer for handling file uploads and Cloudinary as the cloud storage provider, this project provides a streamlined solution for handling images in any Node.js application.
 
 ## Features
 - **Image Upload**: Upload images directly to Cloudinary.
